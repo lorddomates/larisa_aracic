@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "larisaaracic";
+    src: url(larisaaracic.ttf);
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-image: url(sadrzaj/pozadina.jpeg);
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+    margin: 30px 5px 30px 5px;
+}
+video {
+    width: 300px;
+    height: 300px;
+    padding: 30px 5px 0px 5px;
+}
+iframe {
+    height: 300px;
+    width: 500px;
+}
+.nav {    
+    list-style-type: none;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    padding: 7px;
+    margin: 5px 2.5px 5px 2.5px;
+    display: inline;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nav:hover {
+    border: 3px solid #ffffff;
+}
+h1 {
+    font-size: 50px;
+    padding: 10px 0px 10px 0px;
+    margin: 30px 0px 0px 0px;
+}
+h2 {
+    font-size: 30px;
+    padding: 10px 0px 10px 0px;
+    margin: 20px 0px 0px 0px;
+}
+h3 {
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+h4 {
+    font-size: 15px;
+    padding: 10px 0px 10px 0px;
+}
+ul {
+    padding: 10px 0px 10px 0px;
+}
+ol {
+    padding: 10px 0px 10px 0px;
+}
+li {
+    padding: 3px 0px 0px 20px;
+    list-style-position: inside;
+}
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+p {
+    padding: 30px 0px 0px 0px;
+    margin: 0px 300px 0px 300px;
+}
+.portret {
+    height: 450px;
+}
